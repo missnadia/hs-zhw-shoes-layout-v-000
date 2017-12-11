@@ -46,3 +46,9 @@
 .first {
   margin-left: 0%
 }
+
+.box {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
