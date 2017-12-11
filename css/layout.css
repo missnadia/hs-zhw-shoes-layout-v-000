@@ -38,3 +38,7 @@
   float: right;
   width: 32%;
 }
+
+[class*="col-"] {
+  margin-left: 2%;
+}
