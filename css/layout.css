@@ -47,4 +47,6 @@
   margin-left: 0%
 }
 
-
+table {
+  table-layout: auto;
+}
