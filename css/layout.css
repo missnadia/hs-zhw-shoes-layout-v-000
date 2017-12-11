@@ -46,3 +46,7 @@
 .first {
   margin-left: 0%
 }
+
+table {
+  table-layout: fixed;
+}
